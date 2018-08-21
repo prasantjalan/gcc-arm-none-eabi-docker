@@ -7,7 +7,6 @@ RUN apt-get update --quiet -y
 RUN apt-get install --quiet -y \
 	perl \
 	perl-modules \
-	aptitude \
 	git \
 	make \
 	gcc \
